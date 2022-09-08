@@ -12,7 +12,7 @@ cta:
 widget_id: main
 headless: true
 weight: 10
-title: Marcos Kaynny
+title: Teacher Marcos
 subtitle: Professor Particular
 cta_alt:
   ? url
@@ -30,4 +30,6 @@ hero_media: teacher.png
 
 Tenha aulas de inglês personalizadas
 
-No seu ritmo, no seu jeito
+No seu ritmo
+
+Do seu jeito
